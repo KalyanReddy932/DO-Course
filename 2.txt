@@ -1,1 +1,2 @@
+Modified after commit
 this is git demo 2.txt
